@@ -1,0 +1,90 @@
+body{ min-width:1024px; margin:0; font-size:18px; color:#484848; text-align:center; font-family: ‘ヒラギノ角ゴ ProN W3′, ‘Hiragino Kaku Gothic ProN’, ‘メイリオ’, ‘Meiryo’, ‘ＭＳ Ｐゴシック’, ‘MS PGothic’, sans-serif;
+-webkit-text-size-adjust: none; }
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,
+form,fieldset,input,textarea,p,blockquote,th,td{
+	padding:0;
+	margin:0;
+}
+
+a:hover img{
+opacity:0.7;
+filter:alpha(opacity=60);
+-ms-filter: "alpha( opacity=60 )";
+background:none;
+}
+
+a:link { color: #444444; }
+a:visited { color: #444444; }
+a:hover { color: #999999; }
+a:active { color: #dddddd; }
+
+
+
+
+
+
+
+li img {vertical-align: bottom;}
+li{list-style-type:none;}
+dl,dt,dd,ul{padding:0; margin:0;list-style-type: none;}
+a{text-decoration: none;}
+a img { border-style:none; border-width: 0px;}
+img{border:0; vertical-align:top;border-width: 0px;}
+
+.wd1{ width:1024px;}
+.wd2{ width:192px;}
+.wd3{ width:386px;}
+.wd4{ width:802px;}
+
+.wd5{ width:270px;}
+.wd6{ width:600px;}
+.wd7{ width:257px;}
+.wd8{ width:570px;}
+.wd9{ width:600px;}
+
+.m0a{ margin:0 auto;}
+
+.tl{text-align:left;}
+.tr{text-align:right;}
+.tc{text-align:center;}
+
+.fl{float:left;}
+.fr{float:right;}
+.oh{overflow:hidden;}
+
+.po01{
+	position:relative;
+	z-index:3;
+}
+
+.po02{
+	position:absolute;
+	z-index:2;
+	
+}
+
+.m01{ margin:0px 30px 0px 0px;}
+.m02{ margin:18px 5px 65px 3px;}
+.m03{ margin:39px 5px 28px 3px;}
+.m04{ margin:39px 5px 28px 3px;}
+.m05{ margin:15px 0px 65px 0px;}
+.m06{ margin-left:3px;}
+.m07{ margin:0px 5px 0px 3px;}
+.m08{ margin:18px 5px 5px 3px;}
+.m09{ margin:5px 5px 65px 3px;}
+.m10{ margin:20px 5px 0px 3px;}
+
+
+.p01{padding-bottom:15px;}
+.p02{padding-top:15px;}
+.p03{padding-bottom:65px;}
+.p04{ padding-bottom:100px;}
+.p05{ padding-bottom:30px;}
+.p06{ padding-bottom:65px;}
+.p07{ padding-bottom:65px;}
+
+
+
+
+
+
